@@ -27,13 +27,13 @@ export default function Home() {
                                 textAnchor='middle'
                                 className='text-2xl md:text-4xl xl:text-4xl text-center'
                             >
-                                3D Modelling Artist/Dev
+                                Rotomation Artist 
                             </text>
                         </svg>
                     </div>
 
                     <article className='text-center sm:text-md'>
-                        I&apos;m <span className='font-bold'>Vishal Kadam</span> A technically skilled artist educated
+                        I&apos;m <span className='font-bold'>Sangram Barge</span> A technically skilled artist educated
                         in the technical field and experienced in the artistic field of 3D with specialization over
                         Digital Assets Creation.
                     </article>
