@@ -66,14 +66,14 @@ export default function Home() {
                             translateZ='50'
                             className='text-xl font-bold text-neutral-600 dark:text-white'
                         >
-                            3D Modelling Artist/Developer
+                            ROTOMATION ARTIST
                         </CardItem>
                         <CardItem
                             as='p'
                             translateZ='60'
                             className='text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300'
                         >
-                            I&apos;m <span className='font-bold'>Vishal Kadam</span>
+                            I&apos;m <span className='font-bold'>Sangram Barge</span>
                         </CardItem>
                         <CardItem
                             translateZ='100'
@@ -113,7 +113,7 @@ export default function Home() {
                     titleComponent={
                         <>
                             <h1 className='text-4xl font-semibold text-black dark:text-white'>
-                                3D Modeling (Environment & Props)
+                                ROTOMATION
                                 <br />
                                 <span className='text-4xl md:text-[6rem] font-bold mt-1 leading-none'>Show Reel !</span>
                             </h1>
