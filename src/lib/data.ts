@@ -44,8 +44,8 @@ export const navItems = [
 export const people = [
     {
         id: 1,
-        name: 'Vishal Kadam',
-        designation: 'vishalkadam472@gmail.com',
+        name: 'Sangram Barge',
+        designation: 'sangrambarge26@gmail.com',
         image: '/my-image.jpg',
     },
 ];
@@ -53,12 +53,12 @@ export const people = [
 export const socialLinks = [
     { title: 'discord', link: 'https://discord.com/users/824538163938066443', icon: SiDiscord },
     { title: 'youtube', link: 'https://youtu.be/HDMj6wdLQ-4', icon: FaYoutube },
-    { title: 'linkedIn', link: 'https://www.linkedin.com/in/vishal-kadam-9ba6a839', icon: FaLinkedin },
+    { title: 'linkedIn', link: 'https://www.linkedin.com/in/sangram-dhavalchandra-barge-0221381b1/', icon: FaLinkedin },
     { title: 'github', link: 'https://github.com/vishalkadam7', icon: FaGithub },
-    { title: 'instagram', link: 'https://www.instagram.com/vishal_kadam_0407', icon: FaInstagram },
+    { title: 'instagram', link: 'https://www.instagram.com/sangram_barge_26/', icon: FaInstagram },
     { title: 'artstation', link: 'https://vishalkadam.artstation.com', icon: FaArtstation },
     { title: 'gumroad', link: 'https://vishalkadam.gumroad.com', icon: SiGumroad },
-    { title: 'mail', link: 'mailto:vishalkadam472@gmail.com', icon: TbMail },
+    { title: 'mail', link: 'mailto:sangrambarge26@gmail.com', icon: TbMail },
 ] as const;
 
 export const embedLinks = [
@@ -73,20 +73,29 @@ export const embedLinks = [
 ] as const;
 
 export const educations = [
-    { school: 'Nalanda Degree College (K.U.Warangal) | March / April 2014', courses: ['B.SC Computers'] },
-    { school: 'Narayana Junior College | June - 2009 ', courses: ['Board of Intermediate Education (MPC)'] },
-    { school: 'St. Joseph’s Convent High School | March - 2007', courses: ['SSC Board of Secondary Education'] },
+    { school: 'Yashwantrao Chavan Maharashtra Open University | 2022 - 2024', courses: ['Bachelor of Arts (B.A)'] },
+    {
+        school: 'JUNIOR COLLEGE OF ART, COMMERCE SCIENCE, RAHIMATPUR | 2018 - 2019 ',
+        courses: [' Higher Secondary Certificate'],
+    },
+    { school: 'SARSWATI VIDYALAYA KOREGAON | 2015 - 2016', courses: ['Secondary School Certificate (SSC)'] },
 ] as const;
 
 export const technicalQualifications = [
-    { school: 'MPC Academy ( Course of study in Assets ) | Mar 2017 - May 2017', courses: ['B.SC Computers'] },
-    { school: 'Arena Multimedia | Nov 2014 - Feb 2017', courses: ['Arena Animation International Program'] },
-    { school: 'Jetking Infotrain Ltd | Mar 2012 - Mar 2013', courses: ['Hardware and Networking course'] },
+    { school: 'Infinity Animation Institute | 2018 - 2019', courses: ['Diploma In Charecter Animation'] },
 ] as const;
 
 export const experience = [
-    { school: 'Framestore | January 2023 - April 2024', courses: ['Modeller'] },
-    { school: 'Double Negative ( DNEG ) | November 2021 - January 2023', courses: ['Environment Generalist TD'] },
+    { school: 'Self Employed | October 2023 - Present', courses: ['Rotomation Artist'] },
+    {
+        school: 'COMPANY3 METHOD | Spatember 2022 - Spatember 2023',
+        courses: [
+            'Worked at Company 3 as a mid-level Rotomation and Camera Tracking artist',
+            'Specialized in camera tracking through advanced personal training',
+            'Expertise in seamlessly integrating body movements and camera motion for realistic visual effects',
+            'Contributed to projects requiring precise tracking and alignment of 3D elements in live-action movies',
+        ],
+    },
     {
         school: 'Moving Picture Company ( MPC film ) | March 2017 - Sept 2021',
         courses: [
@@ -106,13 +115,6 @@ export const experience = [
             'Team Supervision and Performance Management.',
             'Desktop and Laptop Maintenance and Troubleshooting (Windows, Linux).',
             'Providing technical support to clients via email, live chat, phone or On-site.',
-        ],
-    },
-    {
-        school: 'Micro Technologies (Part Time) | May 2012 - May 2013',
-        courses: [
-            'Hardware Engineer',
-            'Computer Hardware Troubleshooting · Hardware Installation · System Administration · Retail Sales · Customer Service',
         ],
     },
 ] as const;
