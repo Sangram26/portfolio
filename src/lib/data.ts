@@ -73,10 +73,10 @@ export const embedLinks = [
 ] as const;
 
 export const educations = [
-    { school: 'Yashwantrao Chavan Maharashtra Open University | 2022 - 2024', courses: ['Bachelor of Arts (B.A)'] },
+    { school: 'Yashwantrao Chavan Maharashtra Open University | 2021 - 2024', courses: ['Bachelor of Arts (B.A)'] },
     {
         school: 'JUNIOR COLLEGE OF ART, COMMERCE SCIENCE, RAHIMATPUR | 2018 - 2019 ',
-        courses: [' Higher Secondary Certificate'],
+        courses: [' Higher Secondary Certificate (HSC)'],
     },
     { school: 'SARSWATI VIDYALAYA KOREGAON | 2015 - 2016', courses: ['Secondary School Certificate (SSC)'] },
 ] as const;
@@ -97,9 +97,9 @@ export const experience = [
         ],
     },
     {
-        school: 'Moving Picture Company ( MPC film ) | March 2017 - Sept 2021',
+        school: 'Double Negative ( DNEG ) | February 2022 - September 2022',
         courses: [
-            'Asset Artist - (Environment Artist)',
+            'Worked at DNEG as a Body Tracking TD ',
             'Worked on large env assets and using optimized workflows',
             'Helped artists identify issues and guide to solve them',
             'Troubleshooting Maya issues. Introducing out of the pipeline solutions. ',
