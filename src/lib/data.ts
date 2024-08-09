@@ -26,7 +26,7 @@ import {
     TbBrandPython,
     TbMail,
 } from 'react-icons/tb';
-import { SiPostgresql, SiPostman, SiLinux, SiShadcnui, SiPycharm, SiNextra } from 'react-icons/si';
+import { SiPostgresql, SiPostman, SiPycharm, SiNextra } from 'react-icons/si';
 import { PiCirclesThreePlusFill } from 'react-icons/pi';
 
 import { title } from 'process';
@@ -130,6 +130,34 @@ export const skills = [
             { title: '3DS Max', icon: SiAutodesk },
             { title: 'Mudbox', icon: SiAutodesk },
             { title: 'Nuke', icon: SiNuke },
+            { title: 'MeshLab', icon: FaEye },
+        ],
+    },
+    {
+        title: 'IDE & Tools',
+        lists: [
+            { title: 'Pycharm Community Edition', icon: SiPycharm },
+            { title: 'Postman', icon: SiPostman },
+        ],
+    },
+    {
+        title: 'Current Learning & used in few Projects',
+        lists: [
+            { title: 'Node.js', icon: TbBrandNodejs },
+            { title: 'Next.js', icon: TbBrandNextjs },
+            { title: 'Python', icon: TbBrandPython },
+            { title: 'Docker', icon: FaDocker },
+            { title: 'Kubernetes', icon: SiKubernetes },
+            { title: 'Postgresql', icon: SiPostgresql },
+            { title: 'Prisma', icon: TbBrandPrisma },
+            { title: 'Gitlab', icon: SiGitlab },
+            { title: 'TypeScript', icon: TbBrandTypescript },
+            { title: 'React', icon: TbBrandReact },
+            { title: 'TailwindCSS', icon: TbBrandTailwind },
+            { title: 'Nextra', icon: SiNextra },
+            { title: 'Figma', icon: TbBrandFigma },
+            { title: 'Framer', icon: SiFramer },
+        ],
     },
 ] as const;
 
