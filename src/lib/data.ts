@@ -130,7 +130,6 @@ export const skills = [
             { title: '3DS Max', icon: SiAutodesk },
             { title: 'Mudbox', icon: SiAutodesk },
             { title: 'Nuke', icon: SiNuke },
-            { title: 'MeshLab', icon: FaEye },
         ],
     },
     {
