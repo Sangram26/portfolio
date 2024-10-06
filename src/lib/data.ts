@@ -102,7 +102,7 @@ export const experience = [
         ],
     },
     {
-        school: 'KW Consulting Pvt. Ltd | June 2013 - Oct 2014',
+        school: 'Bubble Creations Digital Pvt.Ltd | August 2019 - February 2022',
         courses: [
             'Technical Associate in the Project of “Unique Identification Authority of India (UIDAI - Aadhaar)',
             'Installation, Configuration, Application Maintenance and Troubleshooting.',

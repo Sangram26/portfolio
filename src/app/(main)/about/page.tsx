@@ -21,17 +21,14 @@ export default function About() {
 
                         <article className='text-lg text-justify'>
                             <p style={{ marginTop: '10px' }}>
-                                Technically skilled VFX artist with a background in IT and a passion for{' '}
-                                <span className='font-bold'>3D Modelling and digital asset creation</span>. I specialize
-                                in crafting high-quality digital assets for the VFX industry.
-                            </p>
-                            <p style={{ marginBottom: '10px', marginTop: '10px' }}>
-                                I thrive at the crossroads where art and technology converge. This synergy allows me to
-                                breathe life into ideas in a way that&apos;s both visually stunning and efficient.
-                            </p>
-                            <p style={{ marginBottom: '10px', marginTop: '10px' }}>
-                                Before diving into VFX, I spent two years as an IT Assistant, solidifying my technical
-                                skills in system administration and maintenance.
+                                I’m Sangram Dhavalchandra Barge, a Rotomation Artist with over 4 years of industry
+                                experience. Throughout my career, I’ve had the opportunity to work on some amazing
+                                projects like The Flash (2023), Doctor Strange in the Multiverse of Madness (2022),
+                                Shazam! Fury of the Gods (2023), Meg 2 (2023), Secret Invasion (2023), and Star Wars:
+                                Ahsoka (2023).I’m passionate about bringing characters to life using my expertise in
+                                Maya,3dequalizer, and Nuke, and I take pride in delivering high-quality work under tight
+                                deadlines. Rotomation allows me to blend creativity with technical precision,and I’m
+                                always eager to take on new challenges and contribute to exciting projects.
                             </p>
                             <blockquote
                                 style={{ marginBottom: '10px', marginTop: '10px' }}
