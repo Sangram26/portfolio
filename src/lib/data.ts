@@ -104,13 +104,8 @@ export const experience = [
     {
         school: 'Bubble Creations Digital Pvt.Ltd | August 2019 - February 2022',
         courses: [
-            'Technical Associate in the Project of “Unique Identification Authority of India (UIDAI - Aadhaar)',
-            'Installation, Configuration, Application Maintenance and Troubleshooting.',
-            'Enterprise Application Deployment and Management.',
-            'Technical assistance in monitoring through backup/restore, upgrades, failover, and recovery.',
-            'Team Supervision and Performance Management.',
-            'Desktop and Laptop Maintenance and Troubleshooting (Windows, Linux).',
-            'Providing technical support to clients via email, live chat, phone or On-site.',
+            'Matchmove Department experience: Matched live-action footage with 3D characters in 3D space, worked on production shots, and camera tracking.',
+            'Achievements: Learned 3D Equalizer, basics of Nuke, and honed teamwork skills.',
         ],
     },
 ] as const;

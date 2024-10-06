@@ -34,11 +34,12 @@ export default function About() {
                                 style={{ marginBottom: '10px', marginTop: '10px' }}
                                 className='mt-6 border-l-2 pl-6 italic'
                             >
-                                A lifelong learner, I&apos;m constantly expanding my knowledge. Currently, I&apos;m
-                                exploring containerization technologies like Docker and Kubernetes, while also building
-                                a foundation in programming languages and frameworks like{' '}
-                                <span className='font-bold'>Python, Mel, Qt-Designer</span>, HTML, CSS, JavaScript,
-                                TypeScript, React, and Next.js.
+                                I’m constantly exploring new AI tools to enhance my workflow, such as using ChatGPT to
+                                create scripts that automate tasks like cleaning Maya files with a single click. I'm
+                                always on the lookout for tools that help streamline production processes and improve
+                                efficiency. My passion for innovation drives me to continuously learn and apply new
+                                techniques to my work, making me adaptable and ready to tackle new challenges in any
+                                production environment.
                             </blockquote>
                             <code
                                 style={{ marginTop: '10px' }}
