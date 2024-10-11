@@ -50,10 +50,10 @@ export const socialLinks = [
     { title: 'discord', link: 'https://discord.com/users/824538163938066443', icon: SiDiscord },
     { title: 'youtube', link: 'https://youtu.be/HDMj6wdLQ-4', icon: FaYoutube },
     { title: 'linkedIn', link: 'https://www.linkedin.com/in/sangram-dhavalchandra-barge-0221381b1/', icon: FaLinkedin },
-    { title: 'github', link: 'https://github.com/Sangramkadam7', icon: FaGithub },
+    { title: 'github', link: 'https://github.com/SangramBarge7', icon: FaGithub },
     { title: 'instagram', link: 'https://www.instagram.com/sangram_barge_26/', icon: FaInstagram },
-    { title: 'artstation', link: 'https://Sangramkadam.artstation.com', icon: FaArtstation },
-    { title: 'gumroad', link: 'https://Sangramkadam.gumroad.com', icon: SiGumroad },
+    { title: 'artstation', link: 'https://SangramBarge.artstation.com', icon: FaArtstation },
+    { title: 'gumroad', link: 'https://SangramBarge.gumroad.com', icon: SiGumroad },
     { title: 'mail', link: 'mailto:sangrambarge26@gmail.com', icon: TbMail },
 ] as const;
 
@@ -172,14 +172,14 @@ export const projects = [
         title: 'vops-workspace',
         image: '/projects/vops-workspace.png',
         link: 'https://vishops.vercel.app',
-        sourceCode: 'https://github.com/Sangramkadam7/vops-workspace',
+        sourceCode: 'https://github.com/SangramBarge7/vops-workspace',
         tag: ['HTML', 'CSS', 'JavaScript', 'OpenSource'],
     },
     {
         title: 'Artdev-portfolio',
         image: '/projects/artdev-portfolio.png',
         link: 'https://vishify.vercel.app',
-        sourceCode: 'https://github.com/Sangramkadam7/artdev-portfolio',
+        sourceCode: 'https://github.com/SangramBarge7/artdev-portfolio',
         tag: ['Next.js', 'React', 'JavaScript', 'OpenSource'],
     },
     {

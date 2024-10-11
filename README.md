@@ -12,7 +12,7 @@ You can either use this template by:
 -   Or using the script below:
 
 ```bash
-npx tiged Sangramkadam7/artdev-portfolio your-project
+npx tiged SangramBarge7/artdev-portfolio your-project
 ```
 
 Optional: Search and replace `artdev-portfolio` with your project slug.

@@ -30,7 +30,7 @@ export default function NavigationBar() {
                 /> */}
 
                 <span className='text-lg font-bold hover:text-teal-500 group cursor-pointer transition-all text-foreground hidden md:block'>
-                    Sangram Kadam{' '}
+                    Sangram Barge{' '}
                     <span className='text-teal-500 group-hover:text-foreground transition-all'>Artist/Dev</span>
                 </span>
             </Link>
