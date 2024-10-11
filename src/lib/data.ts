@@ -150,13 +150,6 @@ export const tags = [
 
 export const projects = [
     {
-        title: 'vops-workspace',
-        image: '/projects/vops-workspace.png',
-        link: 'https://vishops.vercel.app',
-        sourceCode: 'https://github.com/SangramBarge7/vops-workspace',
-        tag: ['HTML', 'CSS', 'JavaScript', 'OpenSource'],
-    },
-    {
         title: 'Dumbo',
         image: '/shows/Dumbo.png',
         link: null,
