@@ -157,13 +157,6 @@ export const projects = [
         tag: ['HTML', 'CSS', 'JavaScript', 'OpenSource'],
     },
     {
-        title: 'Artdev-portfolio',
-        image: '/projects/artdev-portfolio.png',
-        link: 'https://vishify.vercel.app',
-        sourceCode: 'https://github.com/SangramBarge7/artdev-portfolio',
-        tag: ['Next.js', 'React', 'JavaScript', 'OpenSource'],
-    },
-    {
         title: 'Dumbo',
         image: '/shows/Dumbo.png',
         link: null,
