@@ -27,7 +27,7 @@ export default function Home() {
                                 textAnchor='middle'
                                 className='text-2xl md:text-4xl xl:text-4xl text-center'
                             >
-                                Rotomation Artist 
+                                Rotomation Artist
                             </text>
                         </svg>
                     </div>
@@ -113,7 +113,7 @@ export default function Home() {
                     titleComponent={
                         <>
                             <h1 className='text-4xl font-semibold text-black dark:text-white'>
-                                ROTOMATION
+                                MM/RA
                                 <br />
                                 <span className='text-4xl md:text-[6rem] font-bold mt-1 leading-none'>Show Reel !</span>
                             </h1>
