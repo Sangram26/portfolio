@@ -45,8 +45,8 @@ export default function About() {
                                 style={{ marginTop: '10px' }}
                                 className='relative rounded bg-muted px-[0.3rem] py-[0.2rem] font-mono text-sm font-semibold'
                             >
-                                What truly drives me is the ability to create{' '}
-                                <span className='font-bold'>User-friendly interfaces</span> and optimise performance.
+                                {' '}
+                                <span className='font-bold'></span>
                             </code>
                         </article>
                     </div>
