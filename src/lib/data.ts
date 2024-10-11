@@ -48,7 +48,7 @@ export const people = [
 
 export const socialLinks = [
     { title: 'discord', link: 'https://discord.com/users/824538163938066443', icon: SiDiscord },
-    { title: 'youtube', link: 'https://youtu.be/HDMj6wdLQ-4', icon: FaYoutube },
+    { title: 'youtube', link: 'https://www.youtube.com/@okcos/featured', icon: FaYoutube },
     { title: 'linkedIn', link: 'https://www.linkedin.com/in/sangram-dhavalchandra-barge-0221381b1/', icon: FaLinkedin },
     { title: 'github', link: 'https://github.com/SangramBarge7', icon: FaGithub },
     { title: 'instagram', link: 'https://www.instagram.com/sangram_barge_26/', icon: FaInstagram },
