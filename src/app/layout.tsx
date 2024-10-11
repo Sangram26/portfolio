@@ -23,7 +23,7 @@ export const metadata: Metadata = {
         default: 'Sangram Barge',
         template: 'Sangram Barge | %s',
     },
-    description: "I'm Sangram Barge, A 3D Modelling Rotomation.",
+    description: "I'm Sangram Barge, A  Rotomation Artist.",
 };
 
 export default function RootLayout({
