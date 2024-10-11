@@ -53,7 +53,7 @@ export const socialLinks = [
     { title: 'github', link: 'https://github.com/SangramBarge7', icon: FaGithub },
     { title: 'instagram', link: 'https://www.instagram.com/sangram_barge_26/', icon: FaInstagram },
     { title: 'artstation', link: 'https://SangramBarge.artstation.com', icon: FaArtstation },
-    { title: 'gumroad', link: 'https://SangramBarge.gumroad.com', icon: SiGumroad },
+    { title: 'gumroad', link: 'https://sangrambargem.gumroad.com/l/geyhh', icon: SiGumroad },
     { title: 'mail', link: 'mailto:sangrambarge26@gmail.com', icon: TbMail },
 ] as const;
 
