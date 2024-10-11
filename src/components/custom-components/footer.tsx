@@ -25,7 +25,7 @@ export default function Footer() {
             </ul>
 
             <h1 className='text-foreground text-center select-none'>
-                Copyright @ {year}; Designed by <span className='font-bold'>Vishal Kadam</span>
+                Copyright @ {year}; Designed by <span className='font-bold'>Sangram Kadam</span>
             </h1>
         </div>
     );

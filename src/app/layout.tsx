@@ -20,10 +20,10 @@ const fontSans = FontSans({
 
 export const metadata: Metadata = {
     title: {
-        default: 'Vishal Kadam',
-        template: 'Vishal Kadam | %s',
+        default: 'Sangram Kadam',
+        template: 'Sangram Kadam | %s',
     },
-    description: "I'm Vishal Kadam, A 3D Modelling Artist/Developer.",
+    description: "I'm Sangram Kadam, A 3D Modelling Artist/Developer.",
 };
 
 export default function RootLayout({
