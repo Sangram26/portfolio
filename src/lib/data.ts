@@ -134,25 +134,6 @@ export const skills = [
             { title: 'Postman', icon: SiPostman },
         ],
     },
-    {
-        title: 'Current Learning & used in few Projects',
-        lists: [
-            { title: 'Node.js', icon: TbBrandNodejs },
-            { title: 'Next.js', icon: TbBrandNextjs },
-            { title: 'Python', icon: TbBrandPython },
-            { title: 'Docker', icon: FaDocker },
-            { title: 'Kubernetes', icon: SiKubernetes },
-            { title: 'Postgresql', icon: SiPostgresql },
-            { title: 'Prisma', icon: TbBrandPrisma },
-            { title: 'Gitlab', icon: SiGitlab },
-            { title: 'TypeScript', icon: TbBrandTypescript },
-            { title: 'React', icon: TbBrandReact },
-            { title: 'TailwindCSS', icon: TbBrandTailwind },
-            { title: 'Nextra', icon: SiNextra },
-            { title: 'Figma', icon: TbBrandFigma },
-            { title: 'Framer', icon: SiFramer },
-        ],
-    },
 ] as const;
 
 export const tags = [
