@@ -35,10 +35,10 @@ export default function About() {
                                 className='mt-6 border-l-2 pl-6 italic'
                             >
                                 I’m constantly exploring new AI tools to enhance my workflow, such as using ChatGPT to
-                                create scripts that automate tasks like cleaning Maya files with a single click. I'm
-                                always on the lookout for tools that help streamline production processes and improve
-                                efficiency. My passion for innovation drives me to continuously learn and apply new
-                                techniques to my work, making me adaptable and ready to tackle new challenges in any
+                                create scripts that automate tasks like cleaning Maya files with a single click.
+                                I&apos;m always on the lookout for tools that help streamline production processes and
+                                improve efficiency. My passion for innovation drives me to continuously learn and apply
+                                new techniques to my work, making me adaptable and ready to tackle new challenges in any
                                 production environment.
                             </blockquote>
                             <code
